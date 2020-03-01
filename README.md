@@ -7,6 +7,8 @@
 #### Matplotlib
 
 #### Seaborn
+---
+```
 Bar plot,Count plot,Box plot etc.
-
+```
 #### PySpark
