@@ -1,13 +1,13 @@
 # Datascience with Python
 ### Python,Jupyter notebook,Pandas,Matplotlib,Seaborn,PySpark related exercises
-#### JUPYTER notebook
+#### JUPYTER notebook\
 
-#### PANDAS
+#### PANDAS\
 
-#### MATPLOTLIB
+#### MATPLOTLIB\
 ---
 ```
-Functional,OO method,subplot,figure size,DPI,legend,plot appearance
+Functional\ OO method\subplot\figure size\DPI\legend\plot appearance
 ```
 
 #### SEABORN
