@@ -7,7 +7,8 @@
 #### MATPLOTLIB\
 ---
 ```
-Functional\ OO method\subplot\figure size\DPI\legend\plot appearance
+Functional\ 
+OO method\subplot\figure size\DPI\legend\plot appearance
 ```
 
 #### SEABORN
